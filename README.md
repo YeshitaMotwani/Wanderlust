@@ -36,7 +36,7 @@ I’m excited to present **Wanderlust**, a **comprehensive travel booking platfo
 - **Database:** MongoDB (MongoDB Atlas)  
 - **Authentication:** Passport.js (Local Authentication)  
 - **Version Control:** Git, GitHub  
-- **Key Concepts:** Object-Oriented Programming (OOP), RESTful APIs, Data Structures & Algorithms (DSA), Secure Authentication, Cloud Storage Integration  
+- **Key Concepts:** Object-Oriented Programming (OOP), RESTful APIs, Secure Authentication, Cloud Storage Integration  
 
 ---  
 
